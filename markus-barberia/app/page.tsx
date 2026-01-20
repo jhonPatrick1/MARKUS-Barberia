@@ -33,7 +33,7 @@ export default function Home() {
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             {[
-              { name: "Marcos", role: "Master Barber", img: "/marcos.jpg" },
+              { name: "Marcos", role: "Master Barber", img: "/Marcos.jpg" },
               { name: "Sebastián", role: "Fade Specialist", img: "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?q=80&w=1976&auto=format&fit=crop" },
               { name: "Yeampier", role: "Urban Style", img: "https://images.unsplash.com/photo-1605497788044-5a32c7078486?q=80&w=1974&auto=format&fit=crop" },
               { name: "Jesús", role: "Classic Cuts", img: "https://images.unsplash.com/photo-1512864084360-7c0c4d0a0845?q=80&w=2070&auto=format&fit=crop" }
